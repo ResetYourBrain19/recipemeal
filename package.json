@@ -2,6 +2,7 @@
   "name": "recipe",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ResetYourBrain19.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -16,7 +17,7 @@
     "react-select": "^5.4.0",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4",
-    "homepage": "https://ResetYourBrain19.github.io"
+    
   },
 
   "scripts": {
